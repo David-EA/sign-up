@@ -54,6 +54,13 @@ li {
 }
 
 .submit {
+    text-align:center; 
+    height: 50px; 
+    width: 150px; 
+    font-size:20px; 
+    background-color: #0140f0; 
+    color: white; 
+    font-size: 15px;
     position: relative;
     bottom: 480px;
     left:80px;
@@ -84,6 +91,13 @@ li {
 }
 
 .aboutUs {
+    width: 100px; 
+    height: 30px; 
+    font-size:20px; 
+    text-align: center; 
+    color: rgb(1, 64, 240); 
+    border-inline-color: rgb(1, 64, 240); 
+    font-size: 15px;
     position: relative;
     left: 80px;
     bottom: 350px;
@@ -241,6 +255,13 @@ li {
 }
 
 .submit1 {
+    width: 100px; 
+    height: 30px; 
+    font-size:20px; 
+    text-align: center; 
+    color: rgb(1, 64, 240); 
+    border-inline-color: rgb(1, 64, 240); 
+    font-size: 15px;
     position: relative;
     left: 80px;
     bottom: 850px;
@@ -266,12 +287,25 @@ li {
 }
 
 .submit2 {
+    width: 400px; 
+    height: 40px; 
+    text-align: center; 
+    color: rgb(1, 64, 240); 
+    border-inline-color: rgb(1, 64, 240); 
+    font-size: 15px;
     position: relative;
     left: 320px;
     bottom: 370px;
 }
 
 .submit3 {
+    color: white; 
+    background-color: rgb(1, 64, 240); 
+    width: 400px; 
+    height: 40px; 
+    font-size:15px; 
+    text-align: center; 
+    border-inline-color: rgb(1, 64, 240);
     position: relative;
     left: 330px;
     bottom: 370px;
