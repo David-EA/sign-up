@@ -40,6 +40,7 @@ margin-top: 30px;
 .nav_links li a {
     color: black;
     font-size: 12px;
+    text-decoration: none;
 }
 
 .nav_links li a {
